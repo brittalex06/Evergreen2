@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://evergreen2.netlify.app/sitemap.xml
